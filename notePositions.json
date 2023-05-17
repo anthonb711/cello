@@ -1,10 +1,19 @@
 // Notes on the cello range from C2 --> A5
 // Cellos have 4 strings tuned in 5ths from lowest to highest C, G, D, A
-
+//♭ ♯ ♮
 
 [
-    {
-        
+    { "string"   : "C",
+      "open"     : ""C2",
+     "halfPos"   : "["C♯2", "D♭2", "D2", "D2♯", "E♭2", "E2", "F♭2"]",
+     "firstPos"  : "["D2", "D♯2", "E♭2", "E2", "F♭2", "F2"        ]",
+     "secondPos" : "["E2", "F♭2", "F2", "F♯2", "G♭2"              ]",
+     "thirdPos"  : "["F2", "F♯2", "G♭2", "G2", "G♯2", "A♭2"       ]",
+     "fourthPos" : "["G2", "G♯2", "A♭2", "A2", "B♭2"              ]",
+     "fifthPos"  : "["A2", "B♭2", "B2", "C♭3", "C3"               ]",
+     "sixithPos" : "["B♭2", "B2", "C♭3", "C3", "C♯3", "D♭3"       ]",
+     "seventhPos": "["C3", "C♯3", "D♭3", "D3", "D♯3", "E♭3"       ]",
+                    
     },
     {
         
